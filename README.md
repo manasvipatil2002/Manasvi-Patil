@@ -5,11 +5,9 @@
 </p>
 
 ## Links:
-Lets Connect 
 
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
 
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/HRANALYTICSDASHBOARD-ACOMPLETEEMPLOYEEDATAANALYSIS/HRDashboard?publish=yes)
+[Go to My Dashboard](https://1drv.ms/x/c/a80f7ce6427f968c/ETKB_Ww6oetCh8wjgoDTuQsBqNqiLd3oc-IA-PzzBLqg3g?e=O18vAt?publish=yes)
 
 ## PROJECT NAME:
 
