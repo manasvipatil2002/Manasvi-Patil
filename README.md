@@ -1,7 +1,7 @@
 # HR-Analytics-Dashboard-Using-Tableau
 
 <p align="center">
-  <img width="700" height="170" src="">
+  <img width="700" height="170" src="hr analytics.png">
 </p>
 
 ## Links:
