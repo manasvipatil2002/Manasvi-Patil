@@ -11,7 +11,7 @@
 
 ## PROJECT NAME:
 
-#### HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
+#### HR Analytics: A Complete Employee Data Analysis Project using Advance-Excel
 
 ## ABOUT PROJECT:
 
@@ -21,11 +21,8 @@ This includes trendline and target line to help HR managers track progress towar
 
 ### Technologies Used:
 
-    • Advance Excel 👨‍💻 
 
-    • Tableau 📊
-
-    • Statistics 📜
+    
     
 ## STEPS OVERVIEW:
 
