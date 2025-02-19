@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard-Using-Tableau
+# HR-Analytics-Dashboard-Using-Advance-Excel
 
 <p align="center">
   <img width="700" height="170" src="hr analytics.png">
