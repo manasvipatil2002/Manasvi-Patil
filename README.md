@@ -65,7 +65,9 @@ This includes trendline and target line to help HR managers track progress towar
     5th Sheet: Department Wise Attrition
     
     6th Sheet: Attrition by Age Group 
+    
     7th Sheet:Attrition by Marital Status
+    
     8th Sheet:Filter panel
 ## DASHBOARD:
 
