@@ -70,9 +70,9 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD:
 
-![HR Dashboard ]
+[HR Dashboard ]
 <p align="center">
-  <img width="700" height="170" src="dashboard.jpg">
+  <img width="3000" height="600" src="dashboard.jpg">
 </p>
 
 ### DASHBOARD VIDEO:
