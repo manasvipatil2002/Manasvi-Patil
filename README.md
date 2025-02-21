@@ -77,10 +77,6 @@ This includes trendline and target line to help HR managers track progress towar
 </p>
 
 ### DASHBOARD VIDEO:
-<p align="center">
-  <img width="700" height="170" src="dashboard video.mp4">
-</p>
-
 
 
 
