@@ -78,7 +78,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 ### DASHBOARD VIDEO:
 
-
+https://github.com/user-attachments/assets/589dac0b-39d8-4806-80ad-2f808802cbb1
 
 ### DASHBOARD OVERVIEW:
 
