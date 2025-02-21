@@ -56,18 +56,17 @@ This includes trendline and target line to help HR managers track progress towar
 
     1st Sheet: KPI of Employee Count, Attrition Count, Attrition Rate, Active Employees and Average Age.
     
-    2nd Sheet: Attrition by Gender (Lollipop Chart)
+    2nd Sheet: Total Employee by Gender 
     
-    3rd Sheet: Department wise Attrition (Pie Chart)
+    3rd Sheet: Education Wise Attrition 
     
-    4th Sheet: No. of Employee by Age Group (Bar Graph)
+    4th Sheet: Attrition by Job Role
     
-    5th Sheet: Job Satisfaction Rating (Square Chart)
+    5th Sheet: Department Wise Attrition
     
-    6th Sheet: Education Field wise Attrition (Vertical Bar Graph)
-    
-    7th Sheet: Education Field wise Attrition (Donut Plot)
-
+    6th Sheet: Attrition by Age Group 
+    7th Sheet:Attrition by Marital Status
+    8th Sheet:Filter panel
 ## DASHBOARD:
 
 [HR Dashboard ]
